@@ -9,6 +9,7 @@ NutriVision is a comprehensive nutrition management system designed to facilitat
 2. **Manager UI**: manager.py
 3. **user UI**: user.py
 4. **Preload Dataset**: food.json
+5. **Report**: DSCI551 final report
 
 ## Features
 - **Data Distribution**: Automatically partitions data into two collections based on item ID criteria, optimizing query performance.
