@@ -20,7 +20,6 @@ NutriVision is a comprehensive nutrition management system designed to facilitat
 ## Prerequisites
 - Python 3.x
 - MongoDB
-- AWS EC2 (for deployment)
 - Python packages: pymongo, streamlit, plotly
 
 ## Setup
