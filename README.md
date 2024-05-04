@@ -35,7 +35,7 @@ NutriVision is a comprehensive nutrition management system designed to facilitat
 ## Installation
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/Xingyisun/Data-Visualization-Project.git
+   git clone https://github.com/Xingyisun/Nutrivision-Database-Project.git
    ```
 ## Database setup
    - Python3 db.py
