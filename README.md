@@ -38,8 +38,8 @@ NutriVision is a comprehensive nutrition management system designed to facilitat
    git clone https://github.com/Xingyisun/Nutrivision-Database-Project.git
    ```
 ## Database setup
-   - Python3 db.py
-## Running the Streamlit app
+   - python3 db.py
+## Running the Streamlit app (make sure it is not blocked by the firewall)
 1. **Start the MongoDB service** (if running MongoDB locally).
 2. **Launch the Streamlit application**:
    - For the database manager:
